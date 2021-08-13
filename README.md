@@ -42,48 +42,43 @@ How does replacing the ninth-grade scores affect the following?
 Math and reading scores by grade: It does not affect any of the average math and reading scores by grade, except for the ninth grade at Thomas High School where it is marked as "NaN" since all of the scores have been removed. This is because changing the ninth grade scores to Nan does not impact any of the scores for the other grades at Thomas High School or the grades at any other schools.
 
 Math Score Summary Before
-![alt text]()
-
+![alt text](https://github.com/kmfriesen/School_District_Analysis/blob/main/Resources/math%20scores%20OLD.png)
 
 Math Score Summary After
-![alt text]()
-
+![alt text](https://github.com/kmfriesen/School_District_Analysis/blob/main/Resources/math%20scores%20NEW.png)
 
 Reading Score Summary Before
-![alt text]()
-
+![alt text](https://github.com/kmfriesen/School_District_Analysis/blob/main/Resources/reading%20scores%20OLD.png)
 
 Reading Score Summary After
-![alt text]()
-
+![alt text](https://github.com/kmfriesen/School_District_Analysis/blob/main/Resources/reading%20scores%20NEW.png)
 
 Scores by school spending:
 It does not affect any of the scores by spending for any cateogory except for the $630-644/student bin, where Thomas High School sits. In this bin, the average scores and percentage passing changes so minimally that when the data is formatted to only one decimal points, there appears to be no changes at all.
 
 Scores by Spending Before
-![alt text]()
+![alt text](https://github.com/kmfriesen/School_District_Analysis/blob/main/Resources/spending%20bin%20OLD.png)
 
 Scores by Spending After
-![alt text]()
+![alt text](https://github.com/kmfriesen/School_District_Analysis/blob/main/Resources/Spending%20Bin%20New.png)
 
 Scores by school size: 
 It does not affect any of the scores by spending for any cateogory except for the Medium Size school bin (1000-2000), where Thomas High School sits. In this bin, the average scores and percentage passing changes so minimally that when the data is formatted to only one decimal points, there appears to be no changes at all.
 
 Scores by Size Before
-![alt text]()
+![alt text](https://github.com/kmfriesen/School_District_Analysis/blob/main/Resources/size%20bin%20OLD.png)
 
 Scores by Size After
-![alt text]()
+![alt text](https://github.com/kmfriesen/School_District_Analysis/blob/main/Resources/size%20bin%20NEW.png)
 
 Scores by school type: 
 It only affects the Charter School cateogry, where Thomas High School sits. In this bin, the average scores and percentage passing changes so minimally that when the data is formatted to only one decimal points, there appears to be no changes at all.
 
 Scores by Type Before
-![alt text]()
-
+![alt text](https://github.com/kmfriesen/School_District_Analysis/blob/main/Resources/school%20type%20OLD.png)
 
 Scores by Type After
-![alt text]()
+![alt text](https://github.com/kmfriesen/School_District_Analysis/blob/main/Resources/school%20type%20NEW.png)
 
 
 # Summary 
